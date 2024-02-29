@@ -1,29 +1,31 @@
 # Preâmbulo Geral
+
 project:
   type: book
   output-dir: docs
+
 book:
-  title: "**Estatística Municipal - Belém**"
-  subtitle: "**Fundação Amazônia de Amparo a Estudos e Pesquisas.**"
-  date: "02/28/2024"
+  title: "**ESTATÍSTICA MUNICIPAL**"
+  reader-mode: true
+  subtitle: "**Perfil de Belém**"
+  date: "29/02/2024"
   author:
-    - name: "**Romildo Francelino de Oliveira**"
-      id: md
-      orcid: 0000-0001-7262-3336
-      url: mario.valente@detran.pa.gov.br
-      email: mario.valente@detran.pa.gov.br
-      corresponding: true
-      affiliation:
-        - Estatístico
-        - FAPESPA
+  - name: "**Mário Diego Rocha Valente**"
+    orcid: 0000-0001-7262-3336
+  - name: "**Romildo Francelino de Oliveira**"
+    orcid: 0000-0003-1725-3664
+    corresponding: true
 
   page-footer:
     left: |
-      Was Written by (VALENTE - 2024).
+      Copyright: FAPESPA - 2024
     right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
-  search: true
-  repo-url: https://github.com/MarioDhiego
+      Construído <a href="https://quarto.org/">Pacote Quarto no R4.3</a>.
+  cover-image: Capa_Belem.jpg
+  favicon: Capa_Belem.jpg
+  site-url: https://www.fapespa.pa.gov.br/
+  repo-url : https://github.com/MarioDhiego/Estatistica_Municipal_Fapespa_Belem
+  repo-branch: main
   repo-actions: [edit, issue]
   downloads: [pdf, docx]
   sharing: [twitter, facebook]
@@ -32,6 +34,7 @@ book:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - Capitulo3.qmd
 comments:
   hypothesis: true
 bibliography: references.bib
@@ -40,10 +43,8 @@ format:
     theme:
       light: [blue,custom.scss]
       dark:  [cyborg,custom.scss]
+    code-link: true
     toc-title: Índice
     toc-location: right
-  pdf:
-    documentclass: scrreport
-  epub:
-    cover-image: cover.png
-abstract: ""
+
+

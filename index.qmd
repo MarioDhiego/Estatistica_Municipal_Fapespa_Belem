@@ -21,8 +21,16 @@ O Governo do Estado do Pará, em consonância com a preocupação nacional de se
 
 Ao disponibilizar mais uma atualização deste trabalho, o Governo do Estado está certo de sua contribuição para o desenvolvimento da democracia, por meio da disseminação de informações socioeconômicas, para os gestores e a sociedade civil, contribuindo para a formação de cidadãos.
 
+
+
 ![](images/presidente-02.jpg){fig-align="center" width="139"}
 
 
 <center>**Marcelo do Nascimento Botelho**</center>
 <center>**Diretor-Presidente**</center>
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
