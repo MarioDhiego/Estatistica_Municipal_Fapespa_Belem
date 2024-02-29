@@ -1,0 +1,28 @@
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# Apresentação {.unnumbered}
+
+No cenário atual, no qual o planejamento e a gestão do município apresentam-se processos que exigem um diagnóstico global e continuado da realidade local, que acompanhem e interpretem a dinâmica municipal em seus diversos aspectos social, econômico e ambiental, a informação desagregada é de fundamental importância para planejadores e gestores de um modo geral.
+
+A Fundação Amazônia de Amparo a Estudos e Pesquisas (Fapespa) entende que ao se organizarem, interpretarem e disponibilizarem dados, informações e diagnósticos necessários a esse processo, aumenta-se a possibilidade de acertos na tomada de decisões rumo às metas estabelecidas na gestão administrativa em qualquer esfera de governo. Dessa forma, disponibilizar informações municipalizadas permite aos governos disporem de instrumentos adequados para uma gestão descentralizada.
+
+O Governo do Estado do Pará, em consonância com a preocupação nacional de se tratar dados, informações e indicadores desagregados, disponibiliza à sociedade mais uma atualização das "Estatísticas Municipais Paraenses", que apresentam informações estatísticas sobre os 144 municípios do estado do Pará, constituindo um conjunto de dados capazes de configurar um perfil sobre os aspectos históricos, físicos, culturais, econômicos e sociais, além de instrumentalizar a construção de indicadores macroeconômicos. As Estatísticas Municipais possuem uma série histórica para todas as informações sistematizadas, constando o último ano disponível das mesmas. Este trabalho vem sendo constantemente atualizado e disponibilizado na internet por meio do site da Fapespa ou diretamente na Fundação. Os dados são provenientes de órgãos Federais e Estaduais e de algumas empresas da iniciativa privada, aos quais a Fapespa agradece e releva as contribuições de importância fundamental.
+
+Ao disponibilizar mais uma atualização deste trabalho, o Governo do Estado está certo de sua contribuição para o desenvolvimento da democracia, por meio da disseminação de informações socioeconômicas, para os gestores e a sociedade civil, contribuindo para a formação de cidadãos.
+
+![](images/presidente-02.jpg){fig-align="center" width="139"}
+
+
+<center>**Marcelo do Nascimento Botelho**</center>
+<center>**Diretor-Presidente**</center>

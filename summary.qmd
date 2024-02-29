@@ -1,0 +1,147 @@
+
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+# Aspectos Físicos-Territoriais
+## Localização
+
+O município de Belém é a capital do Estado do Pará, apresenta uma área territorial de 1.059,466 km2, o
+que corresponde a 0,09% da área total do território paraense. Pertence a região de integração do Guajará e
+segundo a divisão geográfica regional, elaborada pelo IBGE (Instituto Brasileiro de Geografia e Estatística), o
+município está inserido na mesorregião Metropolitana de Belém e microrregião de Belém e na região geográfica
+intermediária de Belém e na região imediata de Belém e conta com as seguintes coordenadas geográficas uma
+latitude de 1° 27' 18'' Sul e longitude de 48° 30' 9'' Oeste.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Limites
+
+Seus limites são ao norte com o município de Santo Antônio do Tauá, a leste com Santa Bárbara do
+Pará e Ananindeua, ao sul com Acará e a oeste com Barcarena.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Solos
+
+Os solos identificadas no município são latossolo amarelo distrófico textura média, concrecionários lateríticos
+indiscriminados e hidromórficos indiscriminados eutróficos e distróficos em associações.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Vegetação
+
+O tipo de vegetação encontrada nesse município e a floresta ombrófila densa que apresenta períodos
+de chuvas intensas e constantes e uma vegetação de folhas extensas e perenifólios, domina os tratos marginais
+dos cursos d’água e as baixadas, onde prevalecem formações herbáceas, subarbustivas e arbustivas e é
+encontrada nas subformações aluvial e terras baixas.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Patrimônio Cultural
+
+A alteração da cobertura vegetal observada utilizando imagens LANDSAT - TM, do ano de 1986, era de
+54,73%. A situação torna-se preocupante, ao se levar em consideração o tamanho do pequeno Município; a
+velocidade do desmatamento, a crescente ocupação urbana, e a dilapidação das florestas remanescentes,
+restando florestas pobres, com funções e estruturas alteradas.
+
+O rio Guamá e as bacias de Guajará e Marajó são acidentes geográficos importantes na sua
+conformação, e as ilhas mais importantes são: Grande, Ilhinha, Marinheiro, Cambú, Patos, Barra, Jararaca,
+Urubuoca, Nova Paquetá, Jutuba, Croinha, Cotijuba, Mosqueiro, Caratateua, Papagaio, Camuaru, Conceição e
+Maruim.
+
+O Museu Paraense “Emílio Goeldi” e o Bosque “Rodrigues Alves” conservam espécies da flora e fauna
+paraense.
+
+Ë necessária a preservação do ecossistema remanescente dos mananciais do Utinga e as praias de
+Icoaraci, Outeiro (ou Caratateua), Mosqueiro e Cotijuba.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Topografia
+
+A topografia do Município apresenta uma altitude média de 15 metros, com pequenas variações
+altimetrias, alcançando uma altitude de 25 metros na ilha de Mosqueiro e na área urbana da cidade contando
+com cotas abaixo dos 4 metros, sendo essas áreas mais suscetíveis a influencia das marés altas, o território
+Belenense conta com áreas de planícies e tabuleiros que é um relevo que se encontra entre as formas plana a
+suave ondulado.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Geologia
+
+A estrutura geológica do município encontra-se situada na bacia sedimentar de Marajó e é composta
+por Sedimentos relativos a aluviões atuais e terraços mais antigos do Holoceno. Seguindo a escala de tempo
+geológico essa estrutura é datada da era Cenozóico.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Hidrografia
+
+Os principais acidentes geográficos do Município são: as baías de Marajó, ao norte e Guajará, a oeste.
+Nesta última deságua o rio Guamá, que em conjunto contribui para a conformação peninsular do Município. Na
+baía de Guajará deságuam os igarapés, Bacuri, Val-de-Cães, Una e o furo do Maguari que separa a Ilha de
+Caratateua (Outeiro) do continente.
+
+Em frente à baía do Marajó, situa-se a ilha de Mosqueiro, na qual toda sua orla, a noroeste, é
+constituída por praias, como: Chapéu Virado, Farol, Ariramba, Murubira e muitas outras. Esta ilha é separada do
+continente por meio da baía do Sol e pelo furo das Marinhas. Entre as ilhas de Mosqueiro e Caratateua,
+encontra-se a baía de Santo Antônio, onde deságuam os rios Pratiquará e Marí-Marí.
+
+No rio Guamá, desembocam os igarapés Tucunduba e Água Preta. Este faz limite natural com
+Ananindeua, a sudeste. Na foz do Guamá, aparecem três grandes ilhas que são: Cumbú, do Marinheiro e
+Grande ou Paulo Cunha.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Clima
+
+O clima de Belém apresenta-se no clima zonal equatorial dividido em equatorial úmido, equatorial
+super-úmido subseca e equatorial super-úmido sem seca, sendo identificados ao norte da ilha de Mosqueiro o
+úmido com 1 a 2 meses de seca, o super-úmido subseca que engloba a porção sul da ilha de Mosqueiro, toda a
+ilha de Outeiro, ilha de Cotijuba, ilha Jutuba e ilha Paquetá e nas demais localidades é registrado o clima zonal
+equatorial super-úmido sem seca.
+Conta com índice pluviométrico com uma média anual em torno de 2.085 mm, com alta umidade do ar em quase
+todo o ano, as temperaturas são elevadas e com médias anuais em torno de 26.7 °C e conta com uma
+amplitude térmica baixa.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
