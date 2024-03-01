@@ -42,6 +42,7 @@
 | 2020 |    1.499.641     |  1.059,47  |       1.415,47       |
 | 2021 |    1.506.420     |  1.059,47  |       1.421,87       |
 
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -76,3 +77,38 @@
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+```{r tabe1, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(readxl)
+library(dplyr)
+library(DT)
+library(knitr)
+library(kableExtra)
+
+setwd("C:/Users/mario Dhiego/Documents/Estatistica_Municipal/Estatistica_Municipal_Fapespa_Belem-main")
+
+estatistica_municipal <- read_excel("estatistica_municipal.xls")
+
+  datatable(estatistica_municipal,
+            filter = "top", 
+            plugins='natural',
+            extensions='Buttons',
+            options=list(dom='Blfrtip',buttons=c('copy','csv','excel','pdf','print'),
+                         engthMenu=list(c(5,50,100,250,-1)), c(5,50,100,250,"All"),
+                         pageLength=8, 
+                         autoWidth=TRUE,
+                         scrollX=TRUE),
+            rownames=FALSE,
+            class='cell-border compact stripe hover row-border order-column dt-body-right',
+            style='bootstrap',
+            editable='cell',
+            colnames=c('Ano','População','Area','Densidade'),
+            caption='Tabela 1. População, Área e Densidade Demográfica 2000-2021')
+
+
+```
+
+
+
